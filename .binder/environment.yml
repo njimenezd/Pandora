@@ -1,0 +1,19 @@
+dependencies:
+  - bokeh
+  - pip
+  - pip:
+    - nbserverproxy
+    - jupyter-server-proxy
+    - numpy
+    - xarray>=0.13.*
+    - scipy
+    - rasterio
+    - json-checker
+    - numba>=0.47.*
+    - transitions
+    - scikit-image
+    - ipyvolume
+    - matplotlib
+    - graphviz
+    - notebook>=5.1
+    - pandora[sgm]==1.0.0

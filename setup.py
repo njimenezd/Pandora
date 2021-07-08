@@ -45,6 +45,8 @@ REQUIREMENTS = [
     "numba>=0.47.*",
     "transitions",
     "scikit-image",
+    "nbserverproxy",
+    "jupyter-server-proxy"
 ]
 
 SETUP_REQUIREMENTS = ["setuptools-scm"]
